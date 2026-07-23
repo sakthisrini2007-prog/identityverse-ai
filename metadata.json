@@ -1,0 +1,6 @@
+{
+  "name": "IdentityVerse AI",
+  "description": "Your AI-Powered Digital Identity platform with Document Vault, Knowledge Graph, ATS Resume & Portfolio Builder, Skill Timelines, and Gemini AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
